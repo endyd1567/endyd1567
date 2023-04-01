@@ -1,9 +1,6 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=umdu'sㅤGitHub)
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<a href="https://endyd1567.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistoy-tistoy&logoColor=white"/></a>
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
@@ -22,7 +19,7 @@ AngularJS-powered HTML5 Markdown editor.
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+As [John Gruber] writes on the 
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
@@ -170,19 +167,7 @@ MIT
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
+   [tistory]: <https://endyd1567.tistory.com>
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
